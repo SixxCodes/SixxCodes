@@ -28,6 +28,9 @@ Specifically:
 * I started learning programming when I was 16!
 * My dream is to be a software engineer/developer in the future.
 * I also want to make my own indie games! :>
+* I began with HTML, CSS, and JavaScript.
+* Later, I learned Java in my first year of school.
+* In my second year, I started learning Python!
 
 <!---
 SixxCodes/SixxCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
