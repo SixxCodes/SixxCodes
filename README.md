@@ -31,7 +31,7 @@ Specifically:
 * I began with HTML, CSS, and JavaScript.
 * Later, I learned Java in my first year of school.
 * In my second year, I started learning Python!
-* Now, I'm still on my 2nd Year and I'm also learning GDscript.
+* Now, I'm still on my 2nd Year and I'm also learning GDscript and Dart and Flutter.
 
 <!---
 SixxCodes/SixxCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
