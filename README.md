@@ -30,7 +30,7 @@ Specifically:
 * I also want to make my own indie games! :>
 * I began with HTML, CSS, and JavaScript.
 * Later, I learned Java in my first year of school.
-* In my second year, I started learning Python!
+* In my second year, I started learning Python and SQL!
 * Now, I'm still on my 2nd Year and I'm also learning GDscript and Dart and Flutter.
 
 <!---
