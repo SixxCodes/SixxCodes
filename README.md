@@ -19,7 +19,7 @@ Specifically:
 6. etc.
 
 ## 🌱 I’m currently learning...
-* Essential things I need to learn to be a software engineer/developer.
+* Essential things I need to learn to be a software developer.
 * how to make games on Godot. I want to make my first game, i'm not spoiling anything though, ehe.
 
 ## ⚡ Fun fact:
@@ -28,7 +28,7 @@ Specifically:
 * I started learning programming when I was 16!
 * My dream is to be a software engineer/developer in the future.
 * I also want to make my own indie games! :>
-* I began with HTML, CSS, and JavaScript.
+* I began with C#, HTML, CSS, and JavaScript.
 * Later, I learned Java in my first year of school.
 * In my second year, I started learning Python and SQL!
 * Now, I'm still on my 2nd Year and I'm also learning GDscript and Dart and Flutter.
