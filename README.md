@@ -24,7 +24,7 @@ Specifically:
 
 ## ⚡ Fun fact:
 
-* I OPEN ISSUES ON GITHUB JUST SO I CAN RANT ABOUT THAT SPECIFIC REPOSITORY, I USE THEM LIKE DIARIES!
+* I OPEN ISSUES ON GITHUB JUST SO I COULD RANT ABOUT THAT SPECIFIC REPOSITORY, I USE THEM LIKE DIARIES!
 * I LIKE BREAD! I pair them with everything. Coffee, soup, pasta, tea, milk, cup noodles, and etc.
 * I started learning programming when I was 16!
 * My dream is to be a software engineer/developer in the future.
