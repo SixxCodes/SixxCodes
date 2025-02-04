@@ -22,7 +22,6 @@ Specifically:
 5. Watching anime
 6. etc.  
 
-  
 
 ## 🌱 I’m currently learning...
 * Essential things I need to learn to be a software developer.
