@@ -21,6 +21,7 @@ Specifically:
 4. Journaling
 5. Watching anime
 6. etc.  
+
   
 
 ## 🌱 I’m currently learning...
