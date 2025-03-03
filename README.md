@@ -6,7 +6,7 @@
 ### <div align="center">📫 Who am I?
 # 👩‍💻 Hi there! My name is Sixx! 👩‍💻
 
-* I am a 2nd year Bachelor of Science in Information Technology.
+* I am a 2nd year Bachelor of Science in Information Technology
 * I live in the Philippines!
 * I am a Bisaya (that's why some of my comments on my codes are on Bisaya, ehe)</div>  
   
