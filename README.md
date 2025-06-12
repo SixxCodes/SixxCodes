@@ -28,7 +28,6 @@ Specifically:
 * how to make games on Godot. I want to make my first game, i'm not spoiling anything though, ehe.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
   
 
 ## ⚡ Fun fact:
