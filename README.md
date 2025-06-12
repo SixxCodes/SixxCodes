@@ -6,7 +6,7 @@
 ### <div align="center">📫 Who am I?
 # 👩‍💻 Hi there! My name is Sixx! 👩‍💻
 
-* I am a 2nd year Bachelor of Science in Information Technology
+* I am an upcoming 3rd year Bachelor of Science in Information Technology
 * I live in the Philippines!
 * I am a Bisaya (that's why some of my comments on my codes are on Bisaya, ehe)</div>  
   
@@ -24,7 +24,7 @@ Specifically:
 
 
 ## 🌱 I’m currently learning...
-* Essential things I need to learn to be a software developer.
+* Essential things I need to learn to be a web / game developer.
 * how to make games on Godot. I want to make my first game, i'm not spoiling anything though, ehe.  
   
 
@@ -35,12 +35,12 @@ Specifically:
 * I OPEN ISSUES ON GITHUB JUST SO I COULD RANT ABOUT THAT SPECIFIC REPOSITORY, I USE THEM LIKE DIARIES!
 * I LIKE BREAD! I pair them with everything. Coffee, soup, pasta, tea, milk, cup noodles, and etc.
 * I started learning programming when I was 16!
-* My dream is to be a software engineer/developer in the future.
+* I originally started learning about languages when I was 12 years old and stumbled upon HTML and CSS.
+* My dream is to be a software / web in the future.
 * I also want to make my own indie games! :>
-* I began with C#, HTML, CSS, and JavaScript.
+* I began with HTML, CSS, C#, and JavaScript.
 * Later, I learned Java in my first year of school.
-* In my second year, I started learning Python and SQL!
-* Now, I'm still on my 2nd Year and I'm also learning GDscript and Dart and Flutter.  
+* In my second year, I started learning Python and SQL! I'm also learning GDscript and Dart and Flutter.  
   
 <br/>  
 
