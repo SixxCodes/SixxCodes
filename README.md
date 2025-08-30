@@ -90,8 +90,7 @@ Specifically:
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=SixxCodes&&style=flat-square" align="center" />
 </div>  
-  
-<source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=imhalid&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=journey&theme=journey&color=%23ffffffFF">
+
 <br/>  
 
 <!---# **👋 Hi, I’m @SixxCodes**
