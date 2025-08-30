@@ -1,3 +1,5 @@
+<source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=imhalid&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=journey&theme=journey&color=%23ffffffFF">
+
 <div align="center">
 <img src="https://github.com/SixxCodes/E-commerce-Strorefront-Simulator-pure-Python/blob/main/CKC%20Styles/product_images/ken.jpg" align="center" style="width: 10%" />
 </div>  
