@@ -6,7 +6,7 @@
 ### <div align="center">📫 Who am I?
 # 👩‍💻 Hi there! My name is Kenny! 👩‍💻
 
-* I am an upcoming 3rd year Bachelor of Science in Information Technology
+* I am a 3rd year Bachelor of Science in Information Technology student.
 * I live in the Philippines!
 * I am a Bisaya (that's why some of my comments on my codes are on Bisaya, ehe)</div>  
   
@@ -24,7 +24,7 @@ Specifically:
 
 
 ## 🌱 I’m currently learning...
-* Essential things I need to learn to be a web / game developer.
+* Essential things I need to learn to be a web / software / mobile / game developer.
 * how to make games on Godot. I want to make my first game, i'm not spoiling anything though, ehe.  
   
 
