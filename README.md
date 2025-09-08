@@ -4,7 +4,7 @@
   
 
 ### <div align="center">📫 Who am I?
-# 👩‍💻 Hi there! My name is Sixx! 👩‍💻
+# 👩‍💻 Hi there! My name is Kenny! 👩‍💻
 
 * I am an upcoming 3rd year Bachelor of Science in Information Technology
 * I live in the Philippines!
