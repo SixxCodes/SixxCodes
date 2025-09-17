@@ -9,19 +9,6 @@
 * I am a 3rd year Bachelor of Science in Information Technology student.
 * I live in the Philippines!
 * I am a Bisaya (that's why some of my comments on my codes are on Bisaya, ehe)</div>  
-  
-
-## 👀 My hobbies are...
-
-Everything, tbh. I jump from one hobby to another! I have so much to do now and that is how I enjoy my life atm.
-Specifically:
-1. Crochet
-2. Playing games (any genre and type of games)
-3. Cross stitch
-4. Journaling
-5. Watching anime
-6. etc.  
-
 
 ## 🌱 I’m currently learning...
 * Essential things I need to learn to be a web / software / mobile / game developer.
@@ -33,14 +20,14 @@ Specifically:
 ## ⚡ Fun fact:
 
 * I OPEN ISSUES ON GITHUB JUST SO I COULD RANT ABOUT THAT SPECIFIC REPOSITORY, I USE THEM LIKE DIARIES!
-* I LIKE BREAD! I pair them with everything. Coffee, soup, pasta, tea, milk, cup noodles, and etc.
 * I started learning programming when I was 16!
 * I originally started learning about languages when I was 12 years old and stumbled upon HTML and CSS.
-* My dream is to be a software / web in the future.
+* My dream is to be a software / web / mobile developer in the future.
 * I also want to make my own indie games! :>
 * I began with HTML, CSS, C#, and JavaScript.
 * Later, I learned Java in my first year of school.
-* In my second year, I started learning Python and SQL! I'm also learning GDscript and Dart and Flutter.  
+* In my second year, I started learning Python, SQL, and PHP! I'm also learning GDscript and Dart and Flutter.
+* Third year, I started learning about frameworks like Tailwind for CSS, Vue.js for Javascript, and Laravel with Breeze for PHP. 
   
 <br/>  
 
