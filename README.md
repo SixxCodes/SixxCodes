@@ -82,13 +82,13 @@
 
   <br/>
 
-  ## 🏆 GitHub Trophies
-  <img src="https://github-profile-trophy.vercel.app/?username=SixxCodes&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  ### 🔝 Top Contributed Repo
+  <img src="https://github-contributor-stats.vercel.app/api?username=SixxCodes&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" />
 
   <br/>
 
-  ### 🔝 Top Contributed Repo
-  <img src="https://github-contributor-stats.vercel.app/api?username=SixxCodes&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" />
+  ## 🏆 GitHub Trophies
+  <img src="https://github-profile-trophy.vercel.app/?username=SixxCodes&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 
 </div>
 
