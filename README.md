@@ -1,9 +1,7 @@
 <div align="center">
 <!-- <img src="https://github.com/SixxCodes/E-commerce-Strorefront-Simulator-pure-Python/blob/main/CKC%20Styles/product_images/ken.jpg" align="center" style="width: 10%" /> -->
 <strong>Kenny Crisostomo</strong>
-</div>  
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mahfreinds.exe/)
-
+</div>
 
 ### <div align="center">📫 Who am I?
 # 👩‍💻 Hi there! My name is Kenny! 👩‍💻
