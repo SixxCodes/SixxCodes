@@ -1,13 +1,16 @@
 <div align="center">
   <!-- <img src="https://github.com/SixxCodes/E-commerce-Strorefront-Simulator-pure-Python/blob/main/CKC%20Styles/product_images/ken.jpg" alt="Kenny Crisostomo" width="100" /> -->
   <strong><h1>Kenny Crisostomo</h1></strong>
-  <a href="https://www.facebook.com/kenneth.crisostomo.45654">
+  <a href="https://www.facebook.com/kenneth.crisostomo.45654" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/mahfreinds.exe">
+  <a href="https://instagram.com/mahfreinds.exe" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/zyrile-kenny-madayag-332543347/">
+  <a href="https://kingkenneth.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/itch.io-%23FA5C5C.svg?logo=itch.io&logoColor=white" alt="Itch.io" />
+  </a>
+  <a href="https://www.linkedin.com/in/zyrile-kenny-madayag-332543347/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
