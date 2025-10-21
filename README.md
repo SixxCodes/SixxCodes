@@ -84,9 +84,7 @@
     </tr>
   </table>
 
-  <br/>
-
-  ### 🔝 Top Contributed Repo
+  ## 🔝 Top Contributed Repo
   <img src="https://github-contributor-stats.vercel.app/api?username=SixxCodes&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" />
 
   <br/>
