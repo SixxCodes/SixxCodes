@@ -42,7 +42,8 @@
   - **HTML**, **CSS**, **C#**, **JavaScript** → the early days  
   - **Java** → first year of college  
   - **Python**, **SQL**, **PHP**, **GDscript**, **Dart**, **Flutter** → second year  
-  - **Tailwind CSS**, **Vue.js**, **Laravel with Breeze** → third year  
+  - **Tailwind CSS**, **Vue.js**, **Laravel with Breeze** → third year
+- Breathe! TAKOYAKI, ONIGIRI, DRIED SEAWEED, ADOBO, PIZZA, SPAGHETTI
 
 ---
 
