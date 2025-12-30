@@ -1,6 +1,6 @@
 <div align="center">
   <!-- <img src="https://github.com/SixxCodes/E-commerce-Strorefront-Simulator-pure-Python/blob/main/CKC%20Styles/product_images/ken.jpg" alt="Kenny Crisostomo" width="100" /> -->
-  <strong><h1>🍙 Kenny Crisostom 🍙</h1></strong>
+  <strong><h1>🍙 Kenny CrisostomO 🍙</h1></strong>
   <a href="https://www.facebook.com/kenneth.crisostomo.45654" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
