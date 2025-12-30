@@ -20,7 +20,7 @@
 <div align="center">
   <p>
     👋 Hi there! I’m <strong>Kenny Crisostomo</strong> — a <strong>3rd year Bachelor of Science in Information Technology</strong> student from the <strong>Philippines 🇵🇭</strong>!<br/>
-    I’m a proud <strong>Bisaya</strong> (that’s why some of my code comments are in Bisaya, ehe 😅).
+    I’m <strong>Bisaya</strong> (that’s why some of my code comments are in Bisaya, ehe 😅).
   </p>
 </div>
 
