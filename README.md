@@ -43,7 +43,7 @@
   - **Java** → first year of college  
   - **Python**, **SQL**, **PHP**, **GDscript**, **Dart**, **Flutter** → second year  
   - **Tailwind CSS**, **Vue.js**, **Laravel with Breeze** → third year
-- Breathe! TAKOYAKI, ONIGIRI, DRIED SEAWEED, ADOBO, PIZZA, SPAGHETTI, BURGER, SHAWARMA, CHEESE, MAIS
+- Breathe! TAKOYAKI, ONIGIRI, DRIED SEAWEED, ADOBO, PIZZA, SPAGHETTI, BURGER, SHAWARMA, CHEESE, MAIS, POMPOMPURIN
 
 ---
 
