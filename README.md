@@ -77,21 +77,21 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=SixxCodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=KingPandesal&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SixxCodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingPandesal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   ## 🔝 Top Contributed Repo
-  <img src="https://github-contributor-stats.vercel.app/api?username=SixxCodes&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=KingPandesal&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" />
 
   <br/>
 
   ## 🏆 GitHub Trophies
-  <img src="https://github-profile-trophy.vercel.app/?username=SixxCodes&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KingPandesal&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 
 </div>
 
@@ -100,7 +100,7 @@
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=SixxCodes&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=KingPandesal&&style=flat-square" align="center" />
 </div>  
 
 <br/>
