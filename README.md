@@ -102,6 +102,12 @@
 ---
 
 <div align="center">
+<img src="media/ascii-art-text.png" align="center" />
+</div>  
+
+<br>
+
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=SixxCodes&&style=flat-square" align="center" />
 </div>  
 
