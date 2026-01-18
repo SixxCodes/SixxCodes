@@ -100,7 +100,7 @@
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=KingPandesal&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=SixxCodes&&style=flat-square" align="center" />
 </div>  
 
 <br/>
