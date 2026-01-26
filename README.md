@@ -30,8 +30,7 @@
 
 ## 🌱 Currently Learning
 - The essentials to become a **Web / Software / Mobile / Game Developer** 💻  
-- How to make games on **Godot Engine** — I’m working on my first one (no spoilers though 👀).
-- How to creaate a fully functional website while exploring nice and compatible languages and tools for web developing.
+- How to make games on **Unity Engine** — I’m working on my first one (no spoilers though 👀).
 
 ---
 
